@@ -1,0 +1,5 @@
+Component,Correlation,p_value,Interpretation
+gamma1: Awareness x Availability,0.115,0.0,LR misses multiplicative joint effect
+gamma2: Availability x Price,0.046,0.0377,LR misses supply amplification
+delta:  Co-activation threshold,0.595,0.0,LR cannot model step functions
+lambda: Regime interaction,0.163,0.0,LR cannot model segment-specific effects

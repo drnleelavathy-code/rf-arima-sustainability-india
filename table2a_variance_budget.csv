@@ -1,0 +1,5 @@
+Component,Target,Achieved,R2_ceiling
+Linear (LR-recoverable),55%,54.4%,0.544
+Non-linear (RF-only),45%,45.0%,—
+Noise (SNR=9),~10%,0.6%,—
+RF theoretical ceiling,,,0.994

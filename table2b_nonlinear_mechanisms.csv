@@ -1,0 +1,5 @@
+Mechanism,Formula,Theory,Reference,Why_LR_fails
+nl1: Awareness x Availability,a x v,Co-activation: adoption needs both factors jointly,Joshi & Rahman [7],Treats variables independently
+nl2: Availability x Price,v x (1-p),Price effects amplified when supply is high,Deloitte India [11],"Fixed global coefficient, no amplification"
+nl3: Co-activation threshold,I(a>0.5 AND v>0.5),Adoption jumps at critical threshold — step function,Rogers (2003),Cannot represent step functions
+nl4: Regime interaction,I(a>0.6) x a x (1-p),High-awareness consumers more price-responsive,CSE India [12],Forces single global price coefficient

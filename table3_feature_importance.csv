@@ -1,0 +1,8 @@
+Feature,Importance,CI_lower_2.5,CI_upper_97.5,Std_Dev,Rank,Interpretation
+x_aware,0.4248,0.4022,0.4458,0.0111,1,Primary AI intervention target
+x_avail,0.3629,0.3402,0.3848,0.0111,2,Supply-side AI optimisation
+x_price,0.1517,0.1448,0.1591,0.0037,3,Cost competitiveness
+x_age,0.0345,0.0314,0.0377,0.0016,4,Generational digital shift
+x_tier,0.0106,0.009,0.0123,0.0008,5,Infrastructure access challenge
+x_income,0.0087,0.0077,0.0097,0.0005,6,Secondary income effect
+x_quality,0.0068,0.0061,0.0076,0.0004,7,Minor contextual factor

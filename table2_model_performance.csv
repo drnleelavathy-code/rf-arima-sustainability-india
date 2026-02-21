@@ -1,0 +1,6 @@
+Model,R2,MAE,RMSE,CV_R2,OOB_R2
+Random Forest (optimised),0.89,0.042,0.053,0.891 +/- 0.001,0.893
+"ARIMA(2,1,2) — market forecast",-0.561,MAPE:29.9%,—,—,—
+"ARIMA(2,1,2) — e-waste forecast",-1.846,—,—,—,—
+Linear Regression (baseline),0.491,0.092,0.113,0.498 +/- 0.012,—
+Moving Average (baseline),-0.0,—,—,—,—
